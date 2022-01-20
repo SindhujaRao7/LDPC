@@ -1,4 +1,4 @@
-%Readme file for assignment
+%Readme file for project
 
 >>One needs to run only the Main File : LDPC_Main_code.m
 
